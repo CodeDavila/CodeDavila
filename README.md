@@ -1,47 +1,47 @@
 # M.I.E. David Alejandro Cerda Dávila
 - **Location:** Saltillo, Coahuila, México
-- **Phone:** +52 (844) 189 21 05
+<!-- - **Phone:** +52 (844) 189 21 05 -->
 - **Email:** david.cerda.davila@gmail.com
 
-## Perfil
-Maestro en Ingeniería Electrónica con énfasis en Bioelectrónica y Licenciatura en Ingeniería Biomédica de la Facultad de Ciencias, Universidad Autónoma de San Luis Potosí. Sólida formación académica en ingeniería y profunda comprensión de las aplicaciones electrónicas en el campo biomédico. Experiencia en el uso de redes neuronales para la síntesis de señales biomédicas. Apasionado por contribuir a proyectos de investigación y desarrollo en este campo y expandir constantemente mis conocimientos y habilidades.
+## Profile
+Master in Electronic Engineering with emphasis on Bioelectronics and a Bachelor's degree in Biomedical Engineering from the Faculty of Sciences, Autonomous University of San Luis Potosí. My academic background has provided me with a solid foundation in engineering and a deep understanding of electronic applications in the biomedical field. During my master's, my main focus was on the use of neural networks for the synthesis of biomedical signals. I am excited about the opportunity to contribute to research and development projects in this field and continue expanding my knowledge and skills.
 
-## Habilidades Técnicas
-- Programación en MATLAB
-- Programación en Python
-- Programación en C++
-- Uso de herramientas de desarrollo de Deep Learning (Tensor Flow)
-- Manejo de GIT/GIT-Hub
+## Technical Skills
+- MATLAB Programming
+- Python Programming
+- C++ Programming
+- Deep Learning Development Tools (Tensor Flow)
+- GIT/GIT-Hub Usage
 
-## Educación
-- **MAESTRÍA EN INGENIERÍA ELECTRÓNICA**
-  - Enero 2024, tesis aprobada por unanimidad con mención honorífica
-  - Facultad de Ciencias, Universidad Autónoma de San Luis Potosí
-- **LICENCIATURA EN INGENIERÍA BIOMÉDICA**
-  - Abril 2022, tesis aprobada por unanimidad con mención honorífica
-  - Facultad de Ciencias, Universidad Autónoma de San Luis Potosí
+## Education
+- **MASTER'S IN ELECTRONIC ENGINEERING**
+  - January 2024, thesis unanimously approved with honors
+  - Faculty of Sciences, Autonomous University of San Luis Potosí
+- **BACHELOR'S IN BIOMEDICAL ENGINEERING**
+  - April 2022, thesis unanimously approved with honors
+  - Faculty of Sciences, Autonomous University of San Luis Potosí
 
-## Proyectos Académicos Destacados
-- Uso de redes BiLSTM para sintetizar señales de ECG a partir de PPG
-  - Reconstrucción de señales complejas a partir de señales de menor complejidad.
-- Algoritmo para la estimación de la frecuencia cardiaca mediante fotopletismografía remota
-  - Cálculo de la frecuencia cardiaca mediante videos de un teléfono inteligente.
-- "Exploring the Reconstruction of Electrocardiograms from Photoplethysmograms via Deep Learning" (Primer autor)
-  - Artículo presentado en el primer Congreso IEEE EMBS R9, octubre 2023.
-- "Development of a virtual reality application for interactive visualization of respiratory sounds signals" (Segundo autor)
-  - Artículo publicado en la revista Health and Technology
-- Acelerador aritmético para obtener la posición angular de un robot manipulador de 4 GDL (Proyecto en VHDL)
-  - Error inferior al 3% en la obtención de posiciones angulares para el robot.
+## Notable Academic Projects
+- Use of BiLSTM networks to synthesize ECG signals from PPG
+  - Work: Reconstruction of complex signals from less complex signals.
+- Algorithm for estimating heart rate using remote photoplethysmography
+  - Work: Calculate heart rate from videos of a smartphone.
+- "Exploring the Reconstruction of Electrocardiograms from Photoplethysmograms via Deep Learning" (First author)
+  - Paper presented at the first IEEE EMBS R9 Congress, October 2023.
+- "Development of a virtual reality application for interactive visualization of respiratory sounds signals" (Second author)
+  - Paper published in the Health and Technology journal.
+- Arithmetic accelerator to obtain the angular position of each joint of a 4-DOF manipulator robot (VHDL project)
+  - Project: Less than 3% error in obtaining angular positions for the robot.
 
-## Certificación en Proceso
-- Actualmente, preparándome para obtener la TensorFlow Developer Certification Exam by Google.
+## Certification in Progress
+- Currently preparing for the TensorFlow Developer Certification Exam by Google.
 
-## Logros Académicos
-- Artículo presentado en el Congreso Internacional de la Sociedad de Ingeniería en Medicina y Biología (EMBS) en Guadalajara, Jalisco, octubre 2023.
-- Tercer lugar en el concurso estudiantil del Congreso Nacional de Ingeniería Biomédica (CNIB) edición 41, 2018, con el trabajo "Development of a virtual reality application for interactive visualization of respiratory sounds signals" publicado en la revista Health and Technology como parte de la colección CNIB 2018: Technologies for improving Health.
+## Academic Achievements
+- Paper presented at the International Conference of the Engineering in Medicine and Biology Society (EMBS) in Guadalajara, Jalisco, October 2023.
+- Third place in the student competition of the National Biomedical Engineering Congress (CNIB) 41st edition, 2018, with the work "Development of a virtual reality application for interactive visualization of respiratory sounds signals" published in the Health and Technology journal as part of the CNIB 2018 collection: Technologies for improving Health.
 
-## Idiomas
-- Español: Nativo
-- Inglés: TOEFL-ITP: 597 puntos
+## Languages
+- Spanish: Native
+- English: TOEFL-ITP: 597 points
 
-Estoy dispuesto a reubicarme según las necesidades del trabajo y tengo flexibilidad geográfica para considerar oportunidades en diferentes ubicaciones.
+I am willing to relocate as needed for the job and have geographic flexibility to consider opportunities in different locations.
