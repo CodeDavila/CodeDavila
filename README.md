@@ -3,7 +3,8 @@
 - **Email:** ✉️ david.cerda.davila@gmail.com
 
 ## Profile
-Master in Electronic Engineering with emphasis on Bioelectronics and a Bachelor's degree in Biomedical Engineering from the Faculty of Sciences, Autonomous University of San Luis Potosí. My academic background has provided me with a solid foundation in engineering and a deep understanding of electronic applications in the biomedical field. During my master's, my main focus was on the use of neural networks for the synthesis of biomedical signals. I am excited about the opportunity to contribute to research and development projects in this field and continue expanding my knowledge and skills. 🚀
+🎓 Master in Electronic Engineering with emphasis on Bioelectronics and a Bachelor's degree in Biomedical Engineering from the Faculty of Sciences, Autonomous University of San Luis Potosí. My academic background has provided me with a solid foundation in engineering and a deep understanding of electronic applications in the biomedical field. During my master's, my main focus was on the use of neural networks for the synthesis of biomedical signals. I am excited about the opportunity to contribute to research and development projects in this field and continue expanding my knowledge and skills. 🚀
+
 
 ## Technical Skills
 - MATLAB Programming
@@ -14,7 +15,7 @@ Master in Electronic Engineering with emphasis on Bioelectronics and a Bachelor'
 
 ## Education
 - **MASTER'S IN ELECTRONIC ENGINEERING**
-  - January 2024, thesis unanimously approved with honors
+  - January 2024, thesis unanimously approved
   - Faculty of Sciences, Autonomous University of San Luis Potosí
 - **BACHELOR'S IN BIOMEDICAL ENGINEERING**
   - April 2022, thesis unanimously approved with honors
