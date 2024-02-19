@@ -1,10 +1,9 @@
 # M.I.E. David Alejandro Cerda Dávila
 - **Location:** Saltillo, Coahuila, México
-<!-- - **Phone:** +52 (844) 189 21 05 -->
-- **Email:** david.cerda.davila@gmail.com
+- **Email:** ✉️ david.cerda.davila@gmail.com
 
 ## Profile
-Master in Electronic Engineering with emphasis on Bioelectronics and a Bachelor's degree in Biomedical Engineering from the Faculty of Sciences, Autonomous University of San Luis Potosí. My academic background has provided me with a solid foundation in engineering and a deep understanding of electronic applications in the biomedical field. During my master's, my main focus was on the use of neural networks for the synthesis of biomedical signals. I am excited about the opportunity to contribute to research and development projects in this field and continue expanding my knowledge and skills.
+Master in Electronic Engineering with emphasis on Bioelectronics and a Bachelor's degree in Biomedical Engineering from the Faculty of Sciences, Autonomous University of San Luis Potosí. My academic background has provided me with a solid foundation in engineering and a deep understanding of electronic applications in the biomedical field. During my master's, my main focus was on the use of neural networks for the synthesis of biomedical signals. I am excited about the opportunity to contribute to research and development projects in this field and continue expanding my knowledge and skills. 🚀
 
 ## Technical Skills
 - MATLAB Programming
@@ -34,14 +33,14 @@ Master in Electronic Engineering with emphasis on Bioelectronics and a Bachelor'
   - Project: Less than 3% error in obtaining angular positions for the robot.
 
 ## Certification in Progress
-- Currently preparing for the TensorFlow Developer Certification Exam by Google.
+- Currently preparing for the TensorFlow Developer Certification Exam by Google. 🤖
 
 ## Academic Achievements
 - Paper presented at the International Conference of the Engineering in Medicine and Biology Society (EMBS) in Guadalajara, Jalisco, October 2023.
 - Third place in the student competition of the National Biomedical Engineering Congress (CNIB) 41st edition, 2018, with the work "Development of a virtual reality application for interactive visualization of respiratory sounds signals" published in the Health and Technology journal as part of the CNIB 2018 collection: Technologies for improving Health.
 
 ## Languages
-- Spanish: Native
+- Español: Nativo
 - English: TOEFL-ITP: 597 points
 
-I am willing to relocate as needed for the job and have geographic flexibility to consider opportunities in different locations.
+I am willing to relocate as needed for the job and have geographic flexibility to consider opportunities in different locations. 🌎
