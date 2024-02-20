@@ -1,9 +1,6 @@
 # 👋 Hello! I'm David Dávila 
 
-[![Neon Green 72x36 Landscape Voters Education Banner](https://www.canva.com/design/DAF9RvPDV2I/dJufpi2tJymsg1yWar6lsA/view?utm_content=DAF9RvPDV2I&utm_campaign=designshare&utm_medium=embeds&utm_source=link)](https://www.canva.com/design/DAF9RvPDV2I/dJufpi2tJymsg1yWar6lsA/view?utm_content=DAF9RvPDV2I&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
-
-**Neon Green 72x36 Landscape Voters Education Banner** by David Alejandro Cerda Dávila
-
+![Neon Green 72x36 Landscape Voters Education Banner](https://www.canva.com/design/DAF9RvPDV2I/dJufpi2tJymsg1yWar6lsA/view)
 
 ## M.I.E. David Alejandro Cerda Dávila
 - **Location:** Saltillo, Coahuila, México
